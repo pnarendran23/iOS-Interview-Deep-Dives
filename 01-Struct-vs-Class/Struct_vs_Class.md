@@ -1,6 +1,6 @@
 # Swift: Structs vs. Classes
 
-## 1. Beginner: The Core Concept (Value vs. Reference)
+## 1. Beginner Level: The Core Concept
 
 At the most basic level, the difference comes down to how data is passed around in your app.
 * **Structs are Value Types:** When you assign a struct to a new variable or pass it to a function, Swift creates a brand new copy.
@@ -34,7 +34,7 @@ yourPizza.topping = "Mushrooms"
 print(myPizza.topping)   // "Mushrooms" - The original was changed!
 print(yourPizza.topping) // "Mushrooms"
 ```
-# 2. Intermediate: Mechanics and Rules
+## 2. Intermediate Level: Memory study
 
 Once you understand how they are passed, you need to know how they behave differently in everyday iOS development.
 
@@ -73,7 +73,7 @@ struct Counter {
 }
 ```
 
-3. Expert: Under the Hood (Performance & Concurrency)
+## 3. Expert Level: Under the Hood
 At the senior level, interviewers want to hear about performance implications, method dispatch, and thread safety.
 
 ### Method Dispatch (Static vs. Dynamic):
