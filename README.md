@@ -38,7 +38,7 @@ Use the links below to access the study guides and code playgrounds for each epi
 
 | Topic | Video Link | Study Guide (Markdown) |
 | :--- | :--- | :--- |
-| **01. Structs vs. Classes Under the Hood** | [▶️ Watch on YouTube](#) | [📖 Read the Guide](./01-Struct-vs-Class/README.md) |
+| **01. Structs vs. Classes Under the Hood** | [▶️ Watch on YouTube](#) | [📖 Cheat sheet](./01-Struct-vs-Class/Struct_vs_Class.md) |
 | *(More contents will be updated after each video publishing)* | | |
 
 ## 🛠 How to Use This Repository
