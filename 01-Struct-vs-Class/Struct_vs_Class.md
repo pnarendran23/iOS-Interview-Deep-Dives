@@ -142,6 +142,8 @@ Alright, so that is the internal working mechanism of Structs versus Classes. Re
 
 But before we wrap up, I am going to leave you with two tricky questions that senior interviewers love to ask.
 
+## The Community Interview Challenge
+
 ### Question 1: (Beginner friendly)
 "You are building a simple mobile game. You need to create PlayerStats (which holds the player's current level, score, and health) and a GameEngine (which controls the main game loop, pauses the game, and plays background music). Would you use a class or a struct for each of these? Walk me through your reasoning."
 
