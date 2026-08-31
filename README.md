@@ -39,6 +39,8 @@ Use the links below to access the study guides and code playgrounds for each epi
 | Topic | Video Link | Study Guide (Markdown) |
 | :--- | :--- | :--- |
 | **01. Structs vs. Classes Under the Hood** | [▶️ Watch on YouTube](https://www.youtube.com/watch?v=xIhGC2m5pSI) | [📖 Cheat sheet](./01-Struct-vs-Class/Struct_vs_Class.md) |
+| **02. ** | [▶️ Watch on YouTube](https://youtu.be/CnIwBTFLmXo) | [📖 Cheat sheet](./02-Swift-Closures/Swift_closures_1.md) |
+
 | *(More contents will be updated after each video publishing)* | | |
 
 ## 🛠 How to Use This Repository
